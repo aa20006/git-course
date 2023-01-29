@@ -1,5 +1,5 @@
 # sum.py
-
+# a function
 def add_two_numbers(a, b):
     addition = a+b
     return addition
