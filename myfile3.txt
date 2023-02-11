@@ -1,3 +1,5 @@
 git status is perhaps the most-used Git command—as you’ll see
 over the course of this book. In simple terms, this command shows the
 status of your repository. 
+
+eof
